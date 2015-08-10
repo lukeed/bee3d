@@ -1,6 +1,6 @@
 # Bee3D Slider -- Touch-Enabled JS Slider
 
-* [Demo](http://www.lukeed.com/store/bee3d)
+* [Demo](http://www.lukeed.com/demo/bee3D)
 * [Purchase on CodeCanyon](http://codecanyon.net/item/bee3d-slider-touchenabled-pure-js-plugin/9853467?ref=lukeed)
 * <br>
 * [Support](https://github.com/lukeed/bee3d/issues)
